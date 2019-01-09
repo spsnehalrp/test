@@ -1,0 +1,5 @@
+<?php
+hi
+how are you
+my name is snehal
+?>
